@@ -4,7 +4,7 @@ public class Driver {
         System.out.println("Test 2");
         System.out.println("Test 3");
 
-        System.out.println("branch period 4");
-        System.out.println("branch period 4");
+        System.out.print("branch period 5");
+        System.out.print("branch period 5");
     }
 }
